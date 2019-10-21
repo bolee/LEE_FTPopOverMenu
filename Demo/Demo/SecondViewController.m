@@ -73,6 +73,7 @@
     config.menuCornerRadius = 10.f;
     config.separatorInset = UIEdgeInsetsMake(0, 15.f, 0, 15.f);
     config.selectedCellBackgroundColor = [UIColor yellowColor];
+    config.margin = 20;
 //    config.imageSize = CGSizeMake(16.f, 16.f);
     [FTPopOverMenu showFromEvent:event
                    withMenuArray:self.menuObjectArray
@@ -131,6 +132,7 @@
 
     FTPopOverMenuConfiguration *config = [FTPopOverMenuConfiguration defaultConfiguration];
     config.borderColor = UIColor.whiteColor;
+    config.margin = 20;
     [FTPopOverMenu showForSender:sender
                    withMenuArray:menuNameArray
                       imageArray:menuImageNameArray

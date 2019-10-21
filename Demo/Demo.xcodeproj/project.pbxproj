@@ -213,7 +213,7 @@
 				TargetAttributes = {
 					5A2E15691CC0ED79003BDE12 = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = E83AC9WR2F;
+						DevelopmentTeam = L72U93A2D9;
 					};
 					5A2E15821CC0ED7A003BDE12 = {
 						CreatedOnToolsVersion = 7.3;
@@ -443,7 +443,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = E83AC9WR2F;
+				DEVELOPMENT_TEAM = L72U93A2D9;
 				INFOPLIST_FILE = Demo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -456,7 +456,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = E83AC9WR2F;
+				DEVELOPMENT_TEAM = L72U93A2D9;
 				INFOPLIST_FILE = Demo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
